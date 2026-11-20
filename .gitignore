@@ -1,0 +1,15 @@
+# Investigation sessions & local databases
+sessions/
+*.db
+
+# Python / uv
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# macOS
+.DS_Store
